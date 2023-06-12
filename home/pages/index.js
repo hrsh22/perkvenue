@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-no-target-blank */
 import React from "react";
-import Link from "next/link";
+// import Link from "next/link";
 
 import IndexNavbar from "components/Navbars/IndexNavbar.js";
 import Footer from "components/Footers/Footer.js";
@@ -30,7 +30,7 @@ export default function Index() {
               {/* <div className="mt-12">
                 <a
                   href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-index"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                   className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-slate-400 active:bg-slate-500 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >
                   Get started
@@ -38,7 +38,7 @@ export default function Index() {
                 <a
                   href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index"
                   className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-slate-700 active:bg-slate-600 uppercase text-sm shadow hover:shadow-lg"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                 >
                   Github Star
                 </a>
@@ -932,7 +932,7 @@ Save time and money through 1 integration and 1 invoicing partner for all the br
                 <a
                   href="https://tailwindcss.com/?ref=creative"
                   className="text-slate-300"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                 >
                   Tailwind CSS
                 </a>{" "}
@@ -946,7 +946,7 @@ Save time and money through 1 integration and 1 invoicing partner for all the br
               </p>
               <a
                 href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index"
-                target="_blank"
+                target="_blank" rel="noreferrer"
                 className="github-star mt-4 inline-block text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-slate-700 active:bg-slate-600 uppercase text-sm shadow hover:shadow-lg"
               >
                 Github Star
@@ -1000,14 +1000,14 @@ Save time and money through 1 integration and 1 invoicing partner for all the br
               <div className="sm:block flex flex-col mt-10">
                 <a
                   href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-index"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                   className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-slate-400 active:bg-slate-500 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
                 >
                   Get started
                 </a>
                 <a
                   href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-index"
-                  target="_blank"
+                  target="_blank" rel="noreferrer"
                   className="github-star sm:ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-slate-700 active:bg-slate-600 uppercase text-sm shadow hover:shadow-lg"
                 >
                   <i className="fab fa-github text-lg mr-1"></i>
