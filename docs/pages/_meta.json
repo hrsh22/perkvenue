@@ -1,0 +1,18 @@
+{
+  "index": "Introduction",
+  "start": "Getting Started",
+  "NFTs":"NFTs",
+  "rewardtokens": "Reward Tokens",
+  
+  "about": {
+    "title": "About",
+    "type": "page",
+    "href": "https://rewardsystem.vercel.app/"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://github.com/hrsh22/reward-system",
+    "newWindow": true
+  }
+}
