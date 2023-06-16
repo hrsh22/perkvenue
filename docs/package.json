@@ -1,7 +1,7 @@
 {
-  "name": "reward-system-docs",
+  "name": "perkvenue-docs",
   "version": "0.0.1",
-  "description": "Reward System Documentation",
+  "description": "Perkvenue Documentation",
   "scripts": {
     "dev": "next dev -p 4000",
     "build": "next build",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hrsh22/reward-system-docs"
+    "url": "https://github.com/hrsh22/perkvenue"
   },
   "bugs": {
-    "url": "https://github.com/hrsh22/reward-system-docs/issues"
+    "url": "https://github.com/hrsh22/perkvenue/issues"
   },
-  "homepage": "https://github.com/hrsh22/reward-system-docs#readme",
+  "homepage": "https://perkvenue.vercel.app",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
