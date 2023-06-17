@@ -160,7 +160,7 @@ Instant Access
                         ></polygon>
                       </svg>
                       <h4 className="text-xl text-center font-bold text-white">
-                         1 Simple and Fast Integration
+                         Simple and Fast Integration
                       </h4>
                       <p className="text-md text-center font-light mt-2 text-white">
 Save time and money through 1 integration and 1 invoicing partner for all the brands you connect with                      </p>
@@ -560,7 +560,7 @@ Save time and money through 1 integration and 1 invoicing partner for all the br
                       "scale(1) perspective(1040px) rotateY(-11deg) rotateX(2deg) rotate(2deg)",
                   }}
                   // src="https://assets-global.website-files.com/607c2dcc5c2f05804b369abb/63357d001f08ef26093ede43_ezgif-3-45137881d4-p-800.webp"
-                  src="/img/homepage/earn.svg"
+                  src="/img/homepage/earnandburn.png"
                 />
               </div>
             </div>
@@ -577,7 +577,7 @@ Save time and money through 1 integration and 1 invoicing partner for all the br
                       "scale(1) perspective(1040px) rotateY(17deg) rotateX(2deg) rotate(2deg)",
                   }}
                   // src="https://assets-global.website-files.com/607c2dcc5c2f05804b369abb/629a19007b79402bff3a39ed_Tiered%20Loyalty-p-800.webp"
-                  src="/img/homepage/temp1.gif"
+                  src="/img/homepage/tieredloyalty.png"
                 />
               </div>
             </div>
@@ -697,7 +697,7 @@ Save time and money through 1 integration and 1 invoicing partner for all the br
                       "scale(1) perspective(1040px) rotateY(-11deg) rotateX(2deg) rotate(2deg)",
                   }}
                   // src="https://assets-global.website-files.com/607c2dcc5c2f05804b369abb/629eea1297a044778d2e07d5_Play%20%26%20Win.png"
-                      src="/img/homepage/gamified.svg"
+                      src="/img/homepage/gamifiedloyalty.png"
                 />
               </div>
             </div>
@@ -714,7 +714,7 @@ Save time and money through 1 integration and 1 invoicing partner for all the br
                       "scale(1) perspective(1040px) rotateY(17deg) rotateX(2deg) rotate(2deg)",
                   }}
                   // src="https://assets-global.website-files.com/607c2dcc5c2f05804b369abb/63357d4c418e44607675d695_ezgif-3-9f50ed30f3-p-800.webp"
-                      src="/img/homepage/benefit.svg"
+                      src="/img/homepage/benefitloyalty.png"
                 />
               </div>
             </div>
